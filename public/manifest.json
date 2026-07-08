@@ -1,0 +1,31 @@
+{
+	"short_name": "Twittor",
+  	"name": "Proyecto curso PWA",
+    "description":"App de mensajería con PWA para el curso",
+    "start_url":".",
+    "scope":".",
+  	"background_color": "#3498DB",
+  	"theme_color": "#3498DB",
+  	"display":"standalone",
+  	"orientation":"portrait",
+    "icons": [
+    {
+      "src": "/img/icons/icon-512x512.png",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose":"any"
+    },
+    {
+      "src": "/img/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose":"any"
+    },
+    {
+      "src": "/img/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose":"maskable"
+    }
+  ]
+}
