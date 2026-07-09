@@ -1,14 +1,12 @@
 {
-	"short_name": "Twittor",
-  	"name": "Proyecto curso PWA",
-    "description":"App de mensajería con PWA para el curso",
-    "start_url":".",
-    "scope":".",
-  	"background_color": "#3498DB",
-  	"theme_color": "#3498DB",
-  	"display":"standalone",
-  	"orientation":"portrait",
-    "icons": [
+  "name": "My PWA App",
+  "short_name": "App",
+  "description": "A Progressive Web App",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
     {
       "src": "/icons/icon-192x192.png",
       "sizes": "192x192",
@@ -41,4 +39,3 @@
     }
   ]
 }
-
